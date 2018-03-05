@@ -12,9 +12,13 @@ public class App
     	
     	Bebe bebe = new Bebe();
         Caballero caballero=new Caballero();
-    	
+    	Dama dama= new Dama();
+    	Niño nino=new Niño();
     	bebe.mostrar();
     	caballero.mostrar();
+    	dama.mostrar();
+    	nino.mostrar();
+    	
         
         
     }

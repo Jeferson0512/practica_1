@@ -1,11 +1,9 @@
 package com.tecsup.practica.practica_1;
 
-public interface One {
+public interface interface_bebe {
 
 	public void descripcion();
 	public void nom_prenda();
 	public void talla();
-	public void precio();
-	public void foto();
 	
 }

@@ -1,6 +1,6 @@
 package com.tecsup.practica.practica_1;
 
-public class Bebe implements One {
+public class Bebe implements interface_bebe {
 
 	public void descripcion() {
 		
@@ -12,14 +12,7 @@ public class Bebe implements One {
 
 	public void talla() {
 		
-	}
 	
-	public void precio() {
-		
-	}
-	
-	public void foto() {
-		
 	}
 
 }
